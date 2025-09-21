@@ -91,5 +91,5 @@ If a customer buys *“White Mug”*, the system may recommend *“Tea Spoon Set
 ---
 
 ## 🌐 Streamlit App  
-🔗 [Click here to try the app]([https://your-streamlit-app-link.com](https://hybridrecodemo-ffjwcqwvkx4pghnaguflm8.streamlit.app/))  
+🔗 [Click here to try the app]([https://your-streamlit-app-link.com](https://hybridrecodemo-ffjwcqwvkx4pghnaguflm8.streamlit.app/)  
  
